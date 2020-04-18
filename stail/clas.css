@@ -1,0 +1,150 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrap {
+    max-width: 1200px;
+    margin: auto;
+    font-size: 0px;
+    text-align: center;
+}
+
+.wrap.box {
+    margin-right: 60px;
+    margin: ;
+}
+
+.box-stail-left {
+    box-sizing: border-box;
+    margin-right: 0;
+    display: inline-block;
+    height: 490px;
+    width: 420px;
+    margin-right: 60px;
+    margin-bottom: 132px;
+    border-bottom-width: 0px;
+    padding-bottom: 0px;
+}
+
+.box-stail-left-5 {
+    box-sizing: border-box;
+    margin-right: 0;
+    display: inline-block;
+    height: 490px;
+    width: 420px;
+    margin-right: 60px;
+    margin-bottom: 0px;
+    border-bottom-width: 0px;
+    padding-bottom: 0px;
+}
+
+.box-stail-right-6 {
+    box-sizing: border-box;
+    margin-right: 0;
+    display: inline-block;
+    height: 490px;
+    width: 420px;
+    margin-right: 60px;
+    margin-bottom: 0px;
+    border-bottom-width: 0px;
+    padding-bottom: 0px;
+
+}
+
+.box {
+    box-sizing: border-box;
+    margin-right: 0;
+    display: inline-block;
+    height: 490px;
+    width: 420px;
+}
+
+.li-1 {
+    margin-left: 312px;
+    margin-right: 120px;
+}
+
+.li-2 {
+    margin-right: 104px;
+}
+
+.li-3 {
+    margin-right: 95px;
+}
+
+.li-4 {
+    margin-right: 314px;
+}
+
+.content2 {
+    margin-right: 0;
+    display: inline-block;
+    margin-left: 60px;
+    height: 490px;
+    width: 420px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul.hr {
+    color: #626262;
+    font-family: "Playfair Display";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 4px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 76px;
+    margin-bottom: 104px;
+
+}
+
+ul.hr li {
+    display: inline;
+    margin-right: 5px;
+    padding: 3px;
+}
+
+
+.lifestyil {
+    color: #b4ad9e;
+    font-size: 14px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-top: 32px;
+    margin-bottom: 28px;
+
+}
+
+.h2 {
+    color: #626262;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 34px;
+
+}
+
+.text-box {
+    font-family: "Playfair Display";
+    color: #626262;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+button {
+    font-size: 20px;
+    width: 160px;
+    height: 60px;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+
+.button {
+    text-align: center;
+    margin-top: 58px;
+}
