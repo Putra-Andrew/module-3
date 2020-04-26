@@ -48,13 +48,14 @@ li:last-child {
     margin-bottom: 0px;
 }
 
+a:hover {
+    color: #57c6f8;
+}
+
 a {
     text-decoration: none;
 }
 
-a:hover {
-    color: #57c6f8;
-}
 
 header nav a {
     color: #626262;
