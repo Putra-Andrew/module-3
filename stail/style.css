@@ -52,6 +52,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #57c6f8;
+}
+
 header nav a {
     color: #626262;
 }
@@ -95,6 +99,7 @@ header nav {
 
 .load {
     font-family: "Playfair Display";
+    font-size: 20px;
     color: #626262;
     width: 160px;
     height: 60px;
